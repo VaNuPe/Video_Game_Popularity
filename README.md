@@ -14,4 +14,4 @@ GameCo is a new video game company that wants to use data to inform the developm
 Data set that covers historical sales of video games (for games that sold more than 10,000 copies) spanning different platforms, genres, and publishing studios. This data was drawn from the website [VGChartz](https://www.vgchartz.com).
 
 ## Results
-The entire end-to-end analysis was conducted in Excel, and all the insights and recommendations were collected in a Final Report. 
+The entire end-to-end analysis was conducted in Excel, and all the insights and recommendations were collected in a [Final Report](3.GameCO_Final_Project_Presentation.pdf). 
